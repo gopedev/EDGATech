@@ -1,3 +1,17 @@
+- EdGaTech -
+
+- Descripción
+EDGA Tech es un proyecto de creación de sitios web profesionales, diseñado para ofrecer servicios de desarrollo web personalizados utilizando WordPress y tecnologías modernas. Este repositorio contiene el código para una página de inicio elegante y funcional.
+
+Estructura de Archivos
+bash
+Copiar código
+EDGA-Tech/
+├── index.html            # Página principal (HTML)
+├── styles.css            # Estilos de la página (CSS)
+└── img/                  # Carpeta de imágenes
+    └── marvin-meyer-SYTO3xs06fU-unsplash.jpg  # Imagen de fondo para la sección Hero
+
 
 Archivos
 1. index.html
